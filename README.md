@@ -1,11 +1,12 @@
 <p align="center">
+	## Simple Full Stack APP
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=angular,spring,mysql,postman,bootstrap,vscode,idea" />
   </a>
 </p>  
 
 > [!NOTE]
-> <code style="color : red">Angular</code> + <code style="color : green">Spring Boot  </code>  
+> Angular + Spring Boot  
 > MySQL  
 > Postman  
 > VSCode + IntelliJ  
@@ -21,7 +22,7 @@
 | $${\color{red}DELETE}$$   | https://localhost:8080/employee/delete     |  
 
 ### CORS Policy bypass  
-```
+<code>
 @Bean
 public CorsFilter corsFilter(){
 	CorsConfiguration corsConfiguration = new CorsConfiguration();
@@ -37,7 +38,7 @@ public CorsFilter corsFilter(){
 	urlBasedCorsConfigurationSource.registerCorsConfiguration("/**", corsConfiguration);
 	return new CorsFilter(urlBasedCorsConfigurationSource);
 }
-```  
+</code>  
 
 ### tsconfig.json  
 ```
