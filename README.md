@@ -1,6 +1,6 @@
 ## Simple Full Stack APP  
 <p align="center">
-<a href="https://skillicons.dev">
+<a href="https://skillicons.dev" style="text-decoration: none">
     <img src="https://skillicons.dev/icons?i=angular,spring,mysql,postman,bootstrap,vscode,idea" />
 </a>
 	<a href="https://www.google.pt" style="text-decoration: none">
