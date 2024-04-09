@@ -1,5 +1,6 @@
 ## Simple Full Stack APP  
 <p align="center">
+<!--<a href="https://skillicons.dev">-->
     <img src="https://skillicons.dev/icons?i=angular,spring,mysql,postman,bootstrap,vscode,idea" />
 </p>  
 
