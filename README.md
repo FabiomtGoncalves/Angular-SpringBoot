@@ -21,6 +21,18 @@
 | $${\color{orange}PUT}$$   | https://localhost:8080/employee/update     |
 | $${\color{red}DELETE}$$   | https://localhost:8080/employee/delete     |  
 
+```
+{
+  "id": number,
+  "name": string,
+  "email": string,
+  "jobTitle": string,
+  "phone": string,
+  "imageUrl": string,
+  "employeeCode": string,
+}
+```  
+
 ### CORS Policy bypass  
 ```
 @Bean
